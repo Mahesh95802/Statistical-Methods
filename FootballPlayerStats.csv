@@ -1,0 +1,951 @@
+Player,Season,MatchesPlayed,GoalsScored,Assists,YellowCards,RedCards,Penalty,MinutesPlayed
+robert lewandowski,2021/2022,6,10,0,0,0,0,511
+robert lewandowski,2020/2021,46,51,10,5,0,10,3793
+robert lewandowski,2019/2020,59,63,12,7,0,8,5134
+robert lewandowski,2018/2019,52,42,11,6,0,7,4507
+robert lewandowski,2017/2018,56,45,4,6,0,7,4321
+robert lewandowski,2016/2017,50,43,8,5,0,10,4200
+robert lewandowski,2015/2016,69,56,6,6,0,2,5670
+robert lewandowski,2014/2015,50,27,8,1,0,1,4033
+robert lewandowski,2013/2014,48,28,8,6,0,5,4162
+robert lewandowski,2012/2013,49,36,7,4,1,2,4113
+robert lewandowski,2011/2012,47,30,11,5,0,0,4028
+robert lewandowski,2010/2011,43,9,1,5,0,0,1958
+robert lewandowski,2009/2010,32,20,0,5,0,0,2887
+thomas muller,2021/2022,5,2,2,0,0,0,372
+thomas muller,2020/2021,51,16,20,2,0,3,4107
+thomas muller,2019/2020,51,14,25,6,0,0,3559
+thomas muller,2018/2019,52,9,12,2,1,1,3567
+thomas muller,2017/2018,52,16,16,6,0,0,3512
+thomas muller,2016/2017,47,11,15,0,0,0,3247
+thomas muller,2015/2016,69,42,13,7,0,8,5393
+thomas muller,2014/2015,49,21,14,2,0,7,3642
+thomas muller,2013/2014,56,31,13,3,0,7,4018
+thomas muller,2012/2013,47,23,15,2,0,4,3570
+thomas muller,2011/2012,53,11,14,3,0,0,3884
+thomas muller,2010/2011,47,18,15,2,0,0,3851
+thomas muller,2009/2010,58,24,13,7,1,0,4484
+thomas muller,2008/2009,4,0,0,0,0,0,28
+joshua kimmich,2021/2022,8,0,2,1,0,0,676
+joshua kimmich,2020/2021,45,6,17,7,0,0,3804
+joshua kimmich,2019/2020,61,7,17,13,0,0,5255
+joshua kimmich,2018/2019,57,2,19,10,0,0,4971
+joshua kimmich,2017/2018,56,6,15,4,0,0,4660
+joshua kimmich,2016/2017,47,10,4,2,0,0,2690
+joshua kimmich,2015/2016,43,0,2,7,0,0,2982
+joshua kimmich,2014/2015,29,2,1,4,0,0,2268
+joshua kimmich,2013/2014,26,1,0,7,0,0,2084
+serge gnabry,2021/2022,8,3,4,0,0,0,586
+serge gnabry,2020/2021,46,13,3,5,0,0,2963
+serge gnabry,2019/2020,55,31,15,3,0,0,4065
+serge gnabry,2018/2019,47,15,9,1,0,0,2859
+serge gnabry,2017/2018,31,11,7,0,0,0,1997
+serge gnabry,2016/2017,27,11,1,1,0,1,1970
+serge gnabry,2015/2016,10,6,0,1,0,0,658
+serge gnabry,2013/2014,17,5,0,0,0,0,982
+serge gnabry,2012/2013,4,0,0,0,0,0,93
+lucas holer,2021/2022,4,1,2,1,0,0,321
+lucas holer,2020/2021,35,4,4,5,0,0,2176
+lucas holer,2019/2020,36,8,2,4,0,0,2552
+lucas holer,2018/2019,28,4,0,1,0,0,1022
+lucas holer,2017/2018,31,9,1,1,0,1,2395
+lucas holer,2016/2017,34,6,4,7,0,0,2651
+lucas holer,2015/2016,37,11,0,5,0,1,2762
+lucas holer,2014/2015,26,10,0,2,0,0,1612
+lucas holer,2013/2014,34,9,0,2,0,1,1872
+ermedin demirovic,2021/2022,5,0,0,2,0,0,49
+ermedin demirovic,2020/2021,39,5,8,10,0,0,2140
+ermedin demirovic,2019/2020,28,14,6,9,1,0,2270
+ermedin demirovic,2018/2019,37,7,1,11,1,1,2353
+ermedin demirovic,2017/2018,6,4,1,0,0,0,342
+ermedin demirovic,2016/2017,26,15,0,5,0,1,2196
+ermedin demirovic,2015/2016,23,9,0,1,0,0,812
+ermedin demirovic,2014/2015,8,3,0,0,0,0,154
+roland sallai,2021/2022,6,3,1,0,0,0,351
+roland sallai,2020/2021,34,9,5,5,0,1,2109
+roland sallai,2019/2020,29,2,0,2,0,0,1812
+roland sallai,2018/2019,21,4,1,5,0,0,1386
+roland sallai,2017/2018,38,9,0,9,0,0,2575
+roland sallai,2016/2017,24,1,0,6,1,0,1125
+roland sallai,2015/2016,34,1,0,6,0,0,2500
+roland sallai,2014/2015,16,2,0,2,0,0,532
+vincenzo grifo,2021/2022,5,1,0,0,0,0,295
+vincenzo grifo,2020/2021,34,9,10,3,0,4,2554
+vincenzo grifo,2019/2020,32,6,11,2,1,2,1963
+vincenzo grifo,2018/2019,26,7,6,1,0,2,1883
+vincenzo grifo,2017/2018,19,0,3,0,0,0,838
+vincenzo grifo,2016/2017,32,9,9,1,0,2,2618
+vincenzo grifo,2015/2016,32,14,11,4,0,1,2670
+vincenzo grifo,2014/2015,35,7,8,2,0,1,2969
+vincenzo grifo,2013/2014,21,5,0,3,1,2,1511
+vincenzo grifo,2012/2013,25,5,1,0,0,0,1233
+jonathan schmid,2021/2022,3,1,0,0,0,0,270
+jonathan schmid,2020/2021,33,3,2,4,0,0,2576
+jonathan schmid,2019/2020,35,5,1,1,0,0,3019
+jonathan schmid,2018/2019,29,3,7,1,0,0,2610
+jonathan schmid,2017/2018,26,0,0,1,0,0,1557
+jonathan schmid,2016/2017,26,1,3,1,0,0,1730
+jonathan schmid,2015/2016,24,4,0,1,0,0,1543
+jonathan schmid,2014/2015,37,5,8,2,0,0,3121
+jonathan schmid,2013/2014,33,4,9,3,0,0,2801
+jonathan schmid,2012/2013,38,12,4,0,0,0,3337
+jonathan schmid,2011/2012,22,1,2,1,0,0,1937
+jonathan schmid,2010/2011,1,0,0,0,0,0,22
+nicolas hofler,2021/2022,4,0,0,1,0,0,316
+nicolas hofler,2020/2021,33,1,3,11,0,0,2909
+nicolas hofler,2019/2020,33,1,0,9,0,0,2875
+nicolas hofler,2018/2019,21,0,0,8,0,0,1886
+nicolas hofler,2017/2018,31,1,3,9,1,0,2612
+nicolas hofler,2016/2017,29,1,1,7,0,0,2457
+nicolas hofler,2015/2016,35,2,2,5,0,0,3097
+nicolas hofler,2014/2015,22,0,0,2,0,0,1513
+nicolas hofler,2013/2014,24,3,0,9,1,1,1423
+nicolas hofler,2012/2013,29,0,0,5,0,0,2202
+nicolas hofler,2011/2012,14,1,0,5,0,0,835
+nicolas hofler,2010/2011,0,0,0,0,0,0,0
+maximilian eggestein,2021/2022,6,1,0,1,0,1,408
+maximilian eggestein,2020/2021,38,2,6,5,0,0,3393
+maximilian eggestein,2019/2020,38,1,4,6,0,0,3396
+maximilian eggestein,2018/2019,50,7,7,4,0,0,4424
+maximilian eggestein,2017/2018,37,3,3,4,0,0,3019
+maximilian eggestein,2016/2017,28,3,0,4,0,1,1942
+maximilian eggestein,2015/2016,17,1,0,1,0,0,991
+maximilian eggestein,2014/2015,35,4,0,5,0,0,2498
+maximilian eggestein,2013/2014,24,8,0,7,0,1,2023
+jacob bruun larsen,2021/2022,4,2,0,0,0,0,296
+jacob bruun larsen,2020/2021,32,5,8,1,0,1,1626
+jacob bruun larsen,2019/2020,21,0,2,0,0,0,618
+jacob bruun larsen,2018/2019,42,6,6,1,0,0,2247
+jacob bruun larsen,2017/2018,15,5,4,0,0,1,791
+jacob bruun larsen,2016/2017,26,21,0,1,0,0,2086
+jacob bruun larsen,2015/2016,34,9,1,0,0,0,2396
+hamadi al ghaddioui,2021/2022,4,3,1,0,0,0,278
+hamadi al ghaddioui,2020/2021,9,1,0,1,0,0,148
+hamadi al ghaddioui,2019/2020,30,10,3,4,0,0,1437
+hamadi al ghaddioui,2018/2019,33,11,6,4,0,1,1897
+hamadi al ghaddioui,2017/2018,25,7,3,4,0,1,1748
+hamadi al ghaddioui,2016/2017,33,19,0,3,0,0,2890
+hamadi al ghaddioui,2015/2016,33,16,0,3,0,2,2790
+hamadi al ghaddioui,2014/2015,27,12,0,6,1,4,2229
+hamadi al ghaddioui,2013/2014,28,4,0,2,0,0,1271
+hamadi al ghaddioui,2012/2013,32,9,0,9,0,0,2118
+patrik schick,2021/2022,6,3,2,1,1,0,461
+patrik schick,2020/2021,43,19,1,5,0,1,2810
+patrik schick,2019/2020,34,14,2,5,0,1,2094
+patrik schick,2018/2019,38,8,1,5,0,0,2048
+patrik schick,2017/2018,32,4,1,0,0,0,1633
+patrik schick,2016/2017,36,13,3,2,0,0,1717
+patrik schick,2015/2016,28,9,1,2,0,0,1949
+patrik schick,2014/2015,4,0,0,0,0,0,35
+patrik schick,2013/2014,2,0,0,1,0,0,15
+moussa diaby,2021/2022,4,2,1,2,0,0,354
+moussa diaby,2020/2021,54,10,18,5,0,0,3813
+moussa diaby,2019/2020,39,8,8,5,0,0,2550
+moussa diaby,2018/2019,36,4,8,1,0,1,1742
+moussa diaby,2017/2018,17,4,5,5,0,0,1185
+moussa diaby,2016/2017,13,3,0,0,0,0,941
+anthony modeste,2021/2022,4,2,0,0,0,0,338
+anthony modeste,2020/2021,17,1,0,2,0,0,605
+anthony modeste,2019/2020,29,4,1,1,0,0,1265
+anthony modeste,2018/2019,10,6,0,2,0,1,367
+anthony modeste,2018,20,9,2,4,0,1,1651
+anthony modeste,2017,45,34,5,6,0,4,3905
+anthony modeste,2015/2016,36,18,3,5,0,4,3055
+anthony modeste,2014/2015,29,9,1,2,0,0,1358
+anthony modeste,2013/2014,33,14,2,4,1,0,1810
+anthony modeste,2012/2013,36,15,3,5,1,3,3030
+anthony modeste,2011/2012,25,3,0,3,1,1,928
+anthony modeste,2010/2011,39,11,3,1,0,4,2523
+anthony modeste,2010,1,0,0,0,0,0,90
+kylian mbappe,2021/2022,6,2,2,1,0,0,459
+kylian mbappe,2020/2021,57,45,14,7,0,9,4522
+kylian mbappe,2019/2020,43,34,18,5,0,0,3212
+kylian mbappe,2018/2019,46,40,13,8,2,3,3769
+kylian mbappe,2017/2018,56,29,13,6,0,1,4301
+kylian mbappe,2016/2017,47,25,11,2,0,1,2787
+kylian mbappe,2015/2016,23,3,2,1,0,0,1170
+kylian mbappe,2015,1,0,0,0,0,0,30
+mauro icardi,2021/2022,4,2,0,1,0,0,354
+mauro icardi,2020/2021,28,13,3,2,0,1,1702
+mauro icardi,2019/2020,34,20,3,1,0,0,2184
+mauro icardi,2018/2019,37,17,4,0,0,7,2944
+mauro icardi,2017/2018,43,30,2,2,0,6,3603
+mauro icardi,2016/2017,41,26,8,1,0,3,3398
+mauro icardi,2015/2016,36,17,5,1,0,1,2722
+mauro icardi,2014/2015,48,27,7,5,0,4,3876
+mauro icardi,2013/2014,23,9,1,1,0,0,1395
+mauro icardi,2012/2013,31,10,2,3,0,0,2119
+mauro icardi,2011/2012,2,1,0,0,0,0,79
+marco verratti,2021/2022,3,0,0,1,0,0,250
+marco verratti,2020/2021,38,0,8,12,0,0,2724
+marco verratti,2019/2020,44,2,6,15,0,0,3149
+marco verratti,2018/2019,39,1,3,12,0,0,3005
+marco verratti,2017/2018,38,2,5,16,2,0,2951
+marco verratti,2016/2017,41,3,7,12,1,0,3102
+marco verratti,2015/2016,31,0,5,5,0,0,2041
+marco verratti,2014/2015,47,3,9,18,0,0,3430
+marco verratti,2013/2014,40,0,6,13,1,0,2723
+marco verratti,2012/2013,39,0,4,15,1,0,2534
+marco verratti,2011/2012,32,0,0,15,2,0,2378
+marco verratti,2010/2011,29,1,0,4,1,0,1428
+marco verratti,2009/2010,8,1,0,1,0,0,205
+angel di maria,2021/2022,1,1,0,0,0,0,9
+angel di maria,2020/2021,49,7,16,2,1,0,3162
+angel di maria,2019/2020,41,13,22,7,0,1,3220
+angel di maria,2018/2019,48,19,15,4,0,0,3544
+angel di maria,2017/2018,47,20,7,1,0,0,3211
+angel di maria,2016/2017,46,12,13,3,1,0,3236
+angel di maria,2015/2016,47,13,22,1,0,0,3389
+angel di maria,2014/2015,36,6,12,3,1,1,2257
+angel di maria,2013/2014,57,12,24,8,0,1,4126
+angel di maria,2012/2013,45,8,11,5,1,0,2876
+angel di maria,2011/2012,32,7,16,8,1,0,1917
+angel di maria,2010/2011,45,9,18,8,0,0,3050
+angel di maria,2010,19,4,1,1,0,0,1446
+pablo sarabia,2021/2022,2,1,0,1,0,0,20
+pablo sarabia,2020/2021,43,9,5,3,0,0,2029
+pablo sarabia,2019/2020,43,15,7,2,0,0,2504
+pablo sarabia,2018/2019,52,22,14,12,1,2,3755
+pablo sarabia,2017/2018,53,9,10,11,1,1,3751
+pablo sarabia,2016/2017,46,11,11,12,0,1,2814
+pablo sarabia,2015/2016,32,7,6,9,0,0,2555
+pablo sarabia,2014/2015,40,4,5,10,0,0,2837
+pablo sarabia,2013/2014,37,2,5,6,0,0,2229
+pablo sarabia,2012/2013,13,0,0,2,0,0,416
+pablo sarabia,2011/2012,19,0,1,5,1,0,911
+pablo sarabia,2010/2011,34,12,0,11,0,0,2628
+ander herrera,2021/2022,4,1,2,0,0,0,360
+ander herrera,2020/2021,45,1,3,10,0,0,2576
+ander herrera,2019/2020,22,1,1,3,0,0,1252
+ander herrera,2018/2019,28,3,3,7,0,0,1887
+ander herrera,2017/2018,42,3,2,7,0,0,2470
+ander herrera,2016/2017,53,2,11,15,2,0,4073
+ander herrera,2015/2016,42,5,6,8,0,2,2464
+ander herrera,2014/2015,31,8,5,8,0,0,2136
+ander herrera,2013/2014,39,5,5,7,0,0,2942
+ander herrera,2012/2013,33,2,2,16,2,0,2712
+ander herrera,2011/2012,48,2,8,13,0,0,3194
+ander herrera,2010/2011,33,2,3,15,2,0,2641
+ander herrera,2009/2010,32,2,1,10,1,0,2341
+idrissa gana gueye,2021/2022,1,1,0,0,0,0,90
+idrissa gana gueye,2020/2021,49,3,2,9,2,0,2806
+idrissa gana gueye,2019/2020,35,1,3,3,0,0,2729
+idrissa gana gueye,2018/2019,42,1,3,8,0,0,3613
+idrissa gana gueye,2017/2018,44,3,1,9,1,0,3565
+idrissa gana gueye,2016/2017,36,1,1,11,0,0,2958
+idrissa gana gueye,2015/2016,38,1,1,10,0,0,3300
+idrissa gana gueye,2014/2015,44,4,2,7,0,0,3794
+idrissa gana gueye,2013/2014,37,1,0,6,0,0,3330
+idrissa gana gueye,2012/2013,36,0,1,5,0,0,2370
+idrissa gana gueye,2011/2012,33,0,0,6,1,0,1737
+idrissa gana gueye,2010/2011,18,1,0,2,0,0,917
+julian draxler,2021/2022,4,1,1,1,0,0,254
+julian draxler,2020/2021,38,4,6,5,0,0,1886
+julian draxler,2019/2020,25,1,6,7,0,0,1280
+julian draxler,2018/2019,46,5,9,9,0,0,2830
+julian draxler,2017/2018,51,4,8,2,0,0,2845
+julian draxler,2016/2017,46,10,4,3,0,1,3344
+julian draxler,2015/2016,45,10,9,7,1,0,3238
+julian draxler,2014/2015,20,2,2,2,1,0,1129
+julian draxler,2013/2014,39,6,9,8,0,0,3116
+julian draxler,2012/2013,39,13,3,5,0,0,2763
+julian draxler,2011/2012,46,5,6,3,0,0,2781
+julian draxler,2010/2011,24,3,0,1,0,0,718
+danilo luis helio pereira,2021/2022,4,0,0,1,0,0,300
+danilo luis helio pereira,2020/2021,57,2,1,6,0,0,3741
+danilo luis helio pereira,2019/2020,46,3,1,5,0,0,3617
+danilo luis helio pereira,2018/2019,43,4,1,7,1,0,3422
+danilo luis helio pereira,2017/2018,29,4,3,7,0,0,2434
+danilo luis helio pereira,2016/2017,46,4,1,5,0,0,3808
+danilo luis helio pereira,2015/2016,57,7,0,14,0,0,4171
+danilo luis helio pereira,2014/2015,36,3,0,13,0,0,3098
+danilo luis helio pereira,2013/2014,29,1,0,8,0,0,2353
+danilo luis helio pereira,2012/2013,32,1,1,4,1,0,2669
+danilo luis helio pereira,2011/2012,5,0,0,0,0,0,89
+daniel didavi,2021/2022,4,0,1,0,0,0,114
+daniel didavi,2020/2021,26,4,3,2,0,0,1102
+daniel didavi,2019/2020,21,6,4,5,1,0,1610
+daniel didavi,2018/2019,23,2,2,0,0,0,1114
+daniel didavi,2017/2018,33,10,5,4,0,0,2382
+daniel didavi,2016/2017,20,4,3,1,0,0,1076
+daniel didavi,2015/2016,34,14,3,11,1,2,2693
+daniel didavi,2014/2015,14,5,0,3,0,0,986
+daniel didavi,2013/2014,9,1,1,3,0,0,581
+daniel didavi,2012/2013,4,0,0,0,0,0,72
+daniel didavi,2011/2012,25,9,3,0,0,0,1655
+daniel didavi,2010/2011,13,0,2,0,0,0,518
+cristiano ronaldo,2021/2022,4,1,0,2,0,0,301
+cristiano ronaldo,2020/2021,54,44,6,6,0,12,4563
+cristiano ronaldo,2019/2020,56,49,6,3,0,17,4840
+cristiano ronaldo,2018/2019,48,33,10,5,1,6,4050
+cristiano ronaldo,2017/2018,49,48,9,7,1,8,4099
+cristiano ronaldo,2016/2017,49,41,12,5,0,7,4289
+cristiano ronaldo,2015/2016,64,62,17,6,0,9,5565
+cristiano ronaldo,2014/2015,53,61,19,8,1,13,4528
+cristiano ronaldo,2013/2014,50,52,13,8,1,10,4270
+cristiano ronaldo,2012/2013,48,48,11,10,0,6,3978
+cristiano ronaldo,2011/2012,50,57,14,6,0,14,4433
+cristiano ronaldo,2010/2011,46,46,17,4,0,9,3935
+cristiano ronaldo,2009/2010,39,34,11,7,2,4,3280
+cristiano ronaldo,2008/2009,33,18,5,7,1,4,2748
+cristiano ronaldo,2007/2008,34,31,0,6,1,4,2746
+cristiano ronaldo,2006,6,1,0,1,0,1,454
+paulo dybala,2021/2022,2,1,1,0,0,0,180
+paulo dybala,2020/2021,26,5,3,0,0,0,1367
+paulo dybala,2019/2020,46,17,9,6,0,2,2909
+paulo dybala,2018/2019,54,11,6,5,0,1,3360
+paulo dybala,2017/2018,52,27,8,2,1,4,3665
+paulo dybala,2016/2017,55,19,11,3,0,6,3709
+paulo dybala,2015/2016,48,24,9,3,0,6,3179
+paulo dybala,2014/2015,35,13,10,3,0,3,3055
+paulo dybala,2013/2014,30,5,0,4,0,0,2113
+paulo dybala,2012/2013,28,3,0,2,0,0,1281
+alvaro morata,2021/2022,5,1,0,0,0,0,352
+alvaro morata,2020/2021,53,24,11,6,1,2,3350
+alvaro morata,2019/2020,51,20,5,8,1,4,3253
+alvaro morata,2018/2019,46,15,1,11,0,0,2868
+alvaro morata,2017/2018,52,15,6,12,1,0,3017
+alvaro morata,2016/2017,46,22,5,8,0,0,2111
+alvaro morata,2015/2016,63,18,11,10,0,2,3230
+alvaro morata,2014/2015,47,15,5,10,2,1,2300
+alvaro morata,2013/2014,34,9,1,2,0,0,938
+alvaro morata,2012/2013,31,14,2,9,0,0,2025
+alvaro morata,2011/2012,38,17,0,13,1,0,2747
+alvaro morata,2010/2011,29,15,0,7,0,0,2108
+juan cuadrado,2021/2022,2,1,0,0,0,0,156
+juan cuadrado,2020/2021,46,3,18,16,1,1,3593
+juan cuadrado,2019/2020,45,3,6,12,1,0,3441
+juan cuadrado,2018/2019,36,1,5,9,0,0,2329
+juan cuadrado,2017/2018,38,6,10,8,0,0,2496
+juan cuadrado,2016/2017,50,3,10,14,1,0,3202
+juan cuadrado,2015/2016,45,6,7,4,0,0,2551
+juan cuadrado,2014/2015,40,6,5,9,0,1,2324
+juan cuadrado,2013/2014,48,16,13,15,1,1,3821
+juan cuadrado,2012/2013,40,5,7,13,1,0,3240
+juan cuadrado,2011/2012,33,3,2,10,1,0,2707
+juan cuadrado,2011,3,0,0,1,0,0,280
+juan cuadrado,2009/2010,12,0,0,2,0,0,539
+rodrigo bentancur,2021/2022,2,0,1,0,0,0,156
+rodrigo bentancur,2020/2021,49,0,4,11,1,0,3441
+rodrigo bentancur,2019/2020,43,1,7,13,1,0,3095
+rodrigo bentancur,2018/2019,52,2,3,11,1,0,3464
+rodrigo bentancur,2017/2018,38,0,1,10,0,0,1793
+rodrigo bentancur,2016/2017,27,0,3,4,0,0,2146
+rodrigo bentancur,2016,19,1,0,2,0,0,1002
+rodrigo bentancur,2015,24,0,0,3,0,0,1175
+carlos soler,2021/2022,3,3,0,1,0,2,266
+carlos soler,2020/2021,34,12,9,7,0,8,2765
+carlos soler,2019/2020,43,3,1,6,0,0,2995
+carlos soler,2018/2019,65,6,13,15,0,0,4915
+carlos soler,2017/2018,37,1,4,5,0,0,2524
+carlos soler,2016/2017,35,4,1,8,2,0,2516
+carlos soler,2015/2016,36,5,0,6,0,1,2557
+carlos soler,2014/2015,2,0,0,0,0,0,119
+maxi gomez,2021/2022,3,0,1,1,0,0,270
+maxi gomez,2020/2021,32,7,1,7,1,0,2701
+maxi gomez,2019/2020,43,11,3,6,0,0,2794
+maxi gomez,2018/2019,42,14,5,6,1,1,3291
+maxi gomez,2017/2018,44,17,4,12,0,0,3303
+maxi gomez,2017,15,11,0,5,2,4,1095
+maxi gomez,2016,35,18,0,4,0,1,2912
+ruben sobrino,2021/2022,1,0,0,0,0,0,13
+ruben sobrino,2020/2021,25,2,1,3,0,0,1518
+ruben sobrino,2019/2020,17,1,0,0,0,0,162
+ruben sobrino,2018/2019,30,5,2,3,0,0,1542
+ruben sobrino,2017/2018,33,5,4,6,0,0,1897
+ruben sobrino,2016/2017,16,3,1,2,0,1,771
+ruben sobrino,2015/2016,14,2,0,1,0,0,859
+ruben sobrino,2014/2015,42,6,0,5,0,0,2387
+ruben sobrino,2013/2014,17,0,0,0,0,0,440
+ruben sobrino,2012/2013,36,7,0,6,0,0,2345
+ruben sobrino,2011/2012,1,0,0,0,0,0,21
+jason remeseiro,2021/2022,2,0,0,1,0,0,4
+jason remeseiro,2020/2021,21,0,0,4,1,0,618
+jason remeseiro,2019/2020,26,1,4,5,0,0,1413
+jason remeseiro,2018/2019,34,2,5,10,0,0,2414
+jason remeseiro,2017/2018,29,1,2,3,0,0,1970
+jason remeseiro,2016/2017,39,10,0,5,0,0,2791
+jason remeseiro,2015/2016,21,2,0,4,1,0,831
+jason remeseiro,2014/2015,25,5,0,4,0,1,1563
+jason remeseiro,2013/2014,26,3,0,7,1,0,1386
+jason remeseiro,2012/2013,3,0,0,0,0,0,31
+ruben alcaraz jimenez,2021/2022,2,0,1,0,0,0,12
+ruben alcaraz jimenez,2020/2021,33,2,0,12,0,0,2311
+ruben alcaraz jimenez,2019/2020,28,2,2,10,0,0,2014
+ruben alcaraz jimenez,2018/2019,35,3,2,14,0,0,3068
+ruben alcaraz jimenez,2017/2018,42,9,2,9,0,2,3564
+ruben alcaraz jimenez,2016/2017,25,6,0,7,2,0,1286
+ruben alcaraz jimenez,2015/2016,25,2,0,8,1,0,1440
+ruben alcaraz jimenez,2014/2015,38,13,0,17,1,0,3386
+ruben alcaraz jimenez,2013/2014,36,2,0,14,0,0,3131
+ruben alcaraz jimenez,2012/2013,37,3,0,15,1,0,3221
+ruben alcaraz jimenez,2010/2011,8,1,0,3,0,0,515
+vinicius jose paixao de oliveira junior,2021/2022,3,3,0,0,0,0,133
+vinicius jose paixao de oliveira junior,2020/2021,53,6,4,5,0,0,2787
+vinicius jose paixao de oliveira junior,2019/2020,38,5,3,6,0,0,1786
+vinicius jose paixao de oliveira junior,2018/2019,39,8,8,6,1,0,2296
+vinicius jose paixao de oliveira junior,2018,23,6,4,3,0,0,1659
+vinicius jose paixao de oliveira junior,2017,36,4,1,4,0,0,974
+karim benzema,2021/2022,3,2,3,0,0,0,268
+karim benzema,2020/2021,52,34,9,2,0,2,4334
+karim benzema,2019/2020,48,27,11,0,0,5,3980
+karim benzema,2018/2019,54,31,9,1,0,4,4250
+karim benzema,2017/2018,50,13,12,0,0,2,3389
+karim benzema,2016/2017,49,17,6,0,0,0,3190
+karim benzema,2015/2016,36,28,7,1,0,0,2599
+karim benzema,2014/2015,48,23,14,1,0,0,3760
+karim benzema,2013/2014,57,27,15,3,0,1,4508
+karim benzema,2012/2013,42,16,16,0,0,0,2381
+karim benzema,2011/2012,47,29,16,0,0,0,3184
+karim benzema,2010/2011,41,21,8,1,0,0,2257
+karim benzema,2009/2010,33,9,4,0,0,0,1710
+luka jovic,2021/2022,5,0,0,0,0,0,36
+luka jovic,2020/2021,26,6,1,2,0,0,1366
+luka jovic,2019/2020,31,4,2,2,0,0,989
+luka jovic,2018/2019,64,35,11,4,0,3,4312
+luka jovic,2017/2018,29,9,2,3,0,0,1120
+luka jovic,2016/2017,12,2,0,1,0,0,739
+luka jovic,2015/2016,30,7,0,0,0,0,1292
+luka jovic,2014/2015,22,6,0,0,0,0,1135
+luka jovic,2013/2014,1,1,0,0,0,0,17
+eden hazard,2021/2022,3,0,1,1,0,0,137
+eden hazard,2020/2021,26,4,3,0,0,1,1100
+eden hazard,2019/2020,30,6,11,1,0,1,2212
+eden hazard,2018/2019,59,22,17,2,0,6,4316
+eden hazard,2017/2018,65,22,17,4,0,5,4641
+eden hazard,2016/2017,44,18,7,3,0,2,3430
+eden hazard,2015/2016,64,15,12,2,0,3,4751
+eden hazard,2014/2015,54,20,11,3,0,7,4561
+eden hazard,2013/2014,54,17,9,3,0,5,4280
+eden hazard,2012/2013,60,13,16,4,1,3,4315
+eden hazard,2011/2012,48,22,20,3,0,10,4102
+eden hazard,2010/2011,52,10,9,2,0,0,3945
+eden hazard,2009/2010,49,9,9,4,0,0,3516
+gareth bale,2021/2022,5,1,2,1,0,0,367
+gareth bale,2020/2021,45,16,7,2,0,1,2370
+gareth bale,2019/2020,28,5,3,6,1,0,1949
+gareth bale,2018/2019,46,14,7,4,0,1,2809
+gareth bale,2017/2018,43,25,7,8,0,2,2672
+gareth bale,2016/2017,30,9,3,4,1,0,2115
+gareth bale,2015/2016,48,29,14,5,0,0,3810
+gareth bale,2014/2015,46,15,11,2,0,1,3859
+gareth bale,2013/2014,44,22,16,3,0,0,3301
+gareth bale,2012/2013,44,26,8,10,0,0,3890
+gareth bale,2011/2012,42,13,13,3,0,0,3675
+gareth bale,2010/2011,41,11,4,1,0,0,3359
+gareth bale,2009/2010,26,3,5,2,0,0,1978
+gareth bale,2008/2009,16,0,0,3,1,0,993
+gareth bale,2007/2008,8,2,0,1,0,0,613
+luka modric,2021/2022,4,1,1,0,0,1,304
+luka modric,2020/2021,58,7,8,4,0,0,4573
+luka modric,2019/2020,50,7,8,13,1,1,3325
+luka modric,2018/2019,52,3,8,8,0,0,3914
+luka modric,2017/2018,54,5,9,5,0,1,4265
+luka modric,2016/2017,42,1,3,4,0,0,3203
+luka modric,2015/2016,59,6,8,5,0,1,4559
+luka modric,2014/2015,25,1,4,6,1,0,2009
+luka modric,2013/2014,54,2,9,10,0,0,4302
+luka modric,2012/2013,45,4,4,9,0,0,2783
+luka modric,2011/2012,41,5,5,2,0,1,3549
+luka modric,2010/2011,43,4,3,4,0,1,3543
+luka modric,2009/2010,25,3,4,2,0,0,1915
+luka modric,2008/2009,34,3,8,5,0,0,2790
+luka modric,2006,2,0,0,0,0,0,28
+marco asensio,2021/2022,3,0,0,0,0,0,57
+marco asensio,2020/2021,49,7,2,2,0,0,2602
+marco asensio,2019/2020,21,4,3,1,0,0,1004
+marco asensio,2018/2019,49,8,9,4,0,0,2652
+marco asensio,2017/2018,64,14,9,2,0,1,3370
+marco asensio,2016/2017,43,11,5,2,0,0,2091
+marco asensio,2015/2016,41,4,12,3,0,0,3271
+marco asensio,2014/2015,36,6,0,6,1,0,2914
+marco asensio,2013/2014,20,1,0,3,0,0,1197
+casemiro,2021/2022,3,0,1,1,0,0,270
+casemiro,2020/2021,52,8,5,15,1,0,4387
+casemiro,2019/2020,46,5,5,14,0,0,4051
+casemiro,2018/2019,55,7,1,16,1,0,4351
+casemiro,2017/2018,60,7,4,14,0,0,4744
+casemiro,2016/2017,45,7,4,13,0,1,3404
+casemiro,2015/2016,38,1,3,11,0,0,2699
+casemiro,2014/2015,40,4,1,15,0,0,3137
+casemiro,2013/2014,25,0,1,3,0,0,655
+casemiro,2013,17,1,0,7,0,0,1386
+lucas vazquez,2021/2022,3,0,0,0,0,0,179
+lucas vazquez,2020/2021,34,2,7,5,0,0,2751
+lucas vazquez,2019/2020,23,3,1,1,0,0,1029
+lucas vazquez,2018/2019,48,5,4,9,1,0,2606
+lucas vazquez,2017/2018,61,8,12,4,0,1,3211
+lucas vazquez,2016/2017,51,4,11,5,0,0,2168
+lucas vazquez,2015/2016,39,4,8,6,0,0,1913
+lucas vazquez,2014/2015,39,4,6,7,0,0,3200
+lucas vazquez,2013/2014,40,8,0,11,0,0,3560
+lucas vazquez,2012/2013,26,3,0,3,0,0,801
+lucas vazquez,2011/2012,26,4,0,4,1,0,753
+roger marti salvador,2021/2022,3,1,0,0,0,0,220
+roger marti salvador,2020/2021,38,14,4,5,0,2,2385
+roger marti salvador,2019/2020,38,11,1,6,1,4,2276
+roger marti salvador,2018/2019,31,13,0,4,0,2,1894
+roger marti salvador,2017/2018,17,3,2,4,0,1,961
+roger marti salvador,2016/2017,38,23,0,9,1,7,3297
+roger marti salvador,2015/2016,37,9,0,8,0,0,2246
+roger marti salvador,2014/2015,19,6,0,4,0,2,1356
+roger marti salvador,2013/2014,37,12,0,8,0,0,2739
+roger marti salvador,2012/2013,42,23,0,8,0,4,2606
+roger marti salvador,2011/2012,2,0,0,0,0,0,18
+angel correa,2021/2022,2,3,0,0,0,0,150
+angel correa,2020/2021,50,9,11,3,0,0,3139
+angel correa,2019/2020,44,7,7,8,0,0,2791
+angel correa,2018/2019,54,7,4,12,1,0,2763
+angel correa,2017/2018,61,9,10,10,1,0,3590
+angel correa,2016/2017,47,8,10,8,0,0,1921
+angel correa,2015/2016,39,9,4,10,0,0,1630
+angel correa,2015,2,1,0,0,0,0,86
+luis suarez,2021/2022,2,0,0,1,0,0,53
+luis suarez,2020/2021,43,22,3,7,0,3,3361
+luis suarez,2019/2020,36,21,11,7,0,2,2658
+luis suarez,2018/2019,56,29,13,10,0,6,4654
+luis suarez,2017/2018,60,36,20,16,0,3,5228
+luis suarez,2016/2017,54,37,16,15,1,0,4469
+luis suarez,2015/2016,54,55,24,10,0,3,4770
+luis suarez,2014/2015,43,25,20,7,0,0,3535
+luis suarez,2013/2014,39,33,12,6,0,0,3426
+luis suarez,2012/2013,44,30,5,11,0,0,3720
+luis suarez,2011/2012,42,17,6,7,0,0,3496
+luis suarez,2010/2011,23,9,9,7,0,0,2002
+luis suarez,2010,20,17,2,8,1,1,1621
+rodrigo de paul,2021/2022,2,0,1,0,0,0,87
+rodrigo de paul,2020/2021,44,10,10,7,2,3,3840
+rodrigo de paul,2019/2020,35,7,6,6,1,0,2917
+rodrigo de paul,2018/2019,51,9,9,11,0,3,4354
+rodrigo de paul,2017/2018,42,4,7,4,0,4,2590
+rodrigo de paul,2016/2017,35,5,1,8,1,0,2450
+rodrigo de paul,2016,30,1,1,5,0,0,1522
+rodrigo de paul,2014/2015,29,2,4,7,1,0,1028
+thomas lemar,2021/2022,4,0,1,2,0,0,307
+thomas lemar,2020/2021,38,2,4,5,0,0,1659
+thomas lemar,2019/2020,36,0,1,2,0,0,1313
+thomas lemar,2018/2019,47,6,7,5,0,0,2854
+thomas lemar,2017/2018,42,3,8,2,0,0,2964
+thomas lemar,2016/2017,55,13,14,4,0,0,4038
+thomas lemar,2015/2016,34,5,3,1,0,0,2175
+thomas lemar,2014/2015,25,1,4,1,0,0,715
+thomas lemar,2013/2014,7,0,0,0,0,0,151
+saul niguez,2021/2022,2,0,1,0,0,0,180
+saul niguez,2020/2021,41,2,1,13,0,0,2675
+saul niguez,2019/2020,51,8,0,14,0,2,4491
+saul niguez,2018/2019,52,8,5,12,0,0,4345
+saul niguez,2017/2018,61,6,4,15,0,0,4971
+saul niguez,2016/2017,56,9,5,12,0,1,4133
+saul niguez,2015/2016,50,9,4,4,0,0,3695
+saul niguez,2014/2015,35,4,2,2,0,0,1606
+saul niguez,2013/2014,37,2,1,15,1,0,3277
+saul niguez,2012/2013,35,6,0,14,1,0,2464
+saul niguez,2011/2012,23,1,0,5,0,0,1544
+saul niguez,2010/2011,22,1,0,4,1,0,1000
+geoffrey kondogbia,2021/2022,2,0,0,2,0,0,180
+geoffrey kondogbia,2020/2021,33,0,0,5,0,0,1303
+geoffrey kondogbia,2019/2020,34,2,1,8,0,0,2353
+geoffrey kondogbia,2018/2019,29,1,1,6,0,0,1980
+geoffrey kondogbia,2017/2018,36,4,4,15,1,0,3024
+geoffrey kondogbia,2016/2017,29,1,2,6,1,0,2061
+geoffrey kondogbia,2015/2016,33,1,0,8,1,0,2572
+geoffrey kondogbia,2014/2015,37,2,2,5,0,0,2948
+geoffrey kondogbia,2013/2014,29,1,2,6,0,0,1669
+geoffrey kondogbia,2012/2013,31,1,1,4,0,0,1919
+geoffrey kondogbia,2010/2011,3,0,0,0,0,0,113
+yannick carrasco,2021/2022,2,0,0,1,0,0,180
+yannick carrasco,2020/2021,43,7,12,6,0,0,3096
+yannick carrasco,2019/2020,23,2,6,2,0,0,971
+yannick carrasco,2019,28,17,7,9,0,7,2321
+yannick carrasco,2018,63,11,13,11,0,3,4261
+yannick carrasco,2016/2017,55,14,4,7,1,0,3535
+yannick carrasco,2015/2016,52,7,3,5,0,0,2790
+yannick carrasco,2014/2015,52,7,12,8,0,0,3758
+yannick carrasco,2013/2014,20,4,3,2,0,0,1346
+yannick carrasco,2012/2013,28,6,0,2,0,2,1821
+marcos llorente,2021/2022,5,0,0,1,0,0,377
+marcos llorente,2020/2021,50,13,12,8,0,0,3892
+marcos llorente,2019/2020,37,5,4,6,0,0,1680
+marcos llorente,2018/2019,17,1,0,3,1,0,1102
+marcos llorente,2017/2018,25,1,0,1,0,0,1400
+marcos llorente,2016/2017,40,0,3,6,0,0,3344
+marcos llorente,2015/2016,43,3,0,9,0,0,3448
+marcos llorente,2014/2015,25,0,0,2,0,0,1637
+marcos llorente,2014,8,0,0,2,0,0,720
+erik lamela,2021/2022,3,3,0,0,0,0,118
+erik lamela,2020/2021,35,4,1,7,1,0,1433
+erik lamela,2019/2020,35,4,4,5,0,0,1629
+erik lamela,2018/2019,36,7,5,6,0,0,1735
+erik lamela,2017/2018,37,4,6,6,0,0,1517
+erik lamela,2016/2017,14,2,6,2,0,0,944
+erik lamela,2015/2016,47,12,10,11,0,0,3227
+erik lamela,2014/2015,48,5,9,6,0,0,3028
+erik lamela,2013/2014,17,1,3,1,0,0,921
+erik lamela,2012/2013,36,15,6,8,0,0,2857
+erik lamela,2011/2012,31,6,8,2,1,0,2047
+youssef en nesyri,2021/2022,3,2,1,0,0,1,266
+youssef en nesyri,2020/2021,56,24,0,4,0,1,3295
+youssef en nesyri,2019/2020,47,11,2,4,0,0,2685
+youssef en nesyri,2018/2019,42,13,2,7,0,0,2810
+youssef en nesyri,2017/2018,29,7,0,3,1,0,1762
+youssef en nesyri,2016/2017,16,1,1,2,0,0,379
+youssef en nesyri,2016,2,0,0,0,0,0,157
+oussama idrissi,2021/2022,3,0,0,1,0,0,72
+oussama idrissi,2020/2021,26,0,2,2,0,0,861
+oussama idrissi,2019/2020,42,17,7,8,0,0,3337
+oussama idrissi,2018/2019,54,18,8,7,0,1,3913
+oussama idrissi,2017/2018,31,11,9,6,0,0,1942
+oussama idrissi,2016/2017,30,5,3,2,0,0,1616
+oussama idrissi,2015/2016,18,3,4,2,0,0,961
+suso,2021/2022,2,0,0,0,0,0,106
+suso,2020/2021,44,4,6,2,0,0,2846
+suso,2019/2020,41,3,3,2,0,0,2707
+suso,2018/2019,44,9,10,10,1,0,3629
+suso,2017/2018,55,9,11,4,1,0,4219
+suso,2016/2017,38,7,11,5,0,0,3136
+suso,2015/2016,24,6,1,4,0,0,1513
+suso,2014/2015,7,1,1,1,1,0,224
+suso,2013/2014,35,3,7,10,1,0,2434
+suso,2012/2013,20,0,1,1,0,0,917
+rafael mir vicente,2021/2022,2,0,0,0,0,0,53
+rafael mir vicente,2020/2021,39,16,1,2,0,2,2993
+rafael mir vicente,2019/2020,37,12,3,5,1,2,1571
+rafael mir vicente,2018/2019,33,7,1,5,0,0,1765
+rafael mir vicente,2017/2018,24,15,0,5,0,0,1791
+rafael mir vicente,2016/2017,40,9,0,5,0,0,2434
+rafael mir vicente,2015/2016,12,6,0,3,0,0,924
+rafael mir vicente,2014/2015,4,1,0,0,0,0,20
+ivan rakitic,2021/2022,2,0,0,0,0,0,104
+ivan rakitic,2020/2021,50,8,3,5,0,2,3061
+ivan rakitic,2019/2020,46,1,5,7,0,0,2410
+ivan rakitic,2018/2019,57,5,10,10,1,0,4487
+ivan rakitic,2017/2018,66,6,5,8,0,1,5128
+ivan rakitic,2016/2017,54,10,6,10,0,1,3678
+ivan rakitic,2015/2016,71,12,9,6,0,0,5191
+ivan rakitic,2014/2015,51,8,8,3,0,0,3346
+ivan rakitic,2013/2014,55,15,15,8,0,5,4377
+ivan rakitic,2012/2013,34,8,10,12,2,1,2967
+ivan rakitic,2011/2012,36,0,7,4,0,0,1915
+ivan rakitic,2010/2011,40,7,6,4,0,0,3176
+ivan rakitic,2009/2010,33,7,2,4,0,3,2428
+ivan rakitic,2008/2009,23,1,7,3,0,0,1469
+ivan rakitic,2007/2008,29,3,0,1,0,0,1968
+thomas delaney,2021/2022,5,0,2,0,0,0,209
+thomas delaney,2020/2021,50,2,4,8,0,0,3448
+thomas delaney,2019/2020,23,1,0,5,0,0,1771
+thomas delaney,2018/2019,42,3,5,10,0,0,3121
+thomas delaney,2017/2018,44,3,8,7,0,0,3830
+thomas delaney,2016/2017,44,12,2,12,0,0,3554
+thomas delaney,2015/2016,38,5,0,9,0,0,3239
+thomas delaney,2014/2015,38,2,0,9,0,0,2886
+thomas delaney,2013/2014,38,3,0,9,0,0,3049
+thomas delaney,2013,8,0,0,2,0,0,445
+thomas delaney,2012,7,0,0,1,0,0,485
+thomas delaney,2011,2,0,0,0,0,0,11
+thomas delaney,2010,3,1,0,0,0,0,110
+jesus navas,2021/2022,3,0,0,0,0,0,270
+jesus navas,2020/2021,47,0,6,6,1,0,3809
+jesus navas,2019/2020,54,2,11,6,0,0,4633
+jesus navas,2018/2019,44,2,7,8,0,0,3554
+jesus navas,2017/2018,44,3,2,3,0,0,2848
+jesus navas,2016/2017,36,0,3,2,0,0,1769
+jesus navas,2015/2016,53,1,9,3,0,0,3529
+jesus navas,2014/2015,47,1,10,3,0,0,3008
+jesus navas,2013/2014,48,6,10,1,0,0,2825
+jesus navas,2012/2013,37,0,6,5,0,0,3317
+jesus navas,2011/2012,39,5,11,5,0,0,3510
+jesus navas,2010/2011,23,2,4,3,0,0,2070
+jesus navas,2009/2010,54,10,13,6,0,0,4355
+jesus navas,2008/2009,36,4,0,7,0,0,2841
+fernando francisco reges,2021/2022,3,0,0,1,0,0,269
+fernando francisco reges,2020/2021,44,3,5,10,1,0,3463
+fernando francisco reges,2019/2020,42,3,3,15,0,0,3316
+fernando francisco reges,2018/2019,31,2,4,12,0,0,2515
+fernando francisco reges,2017/2018,25,2,0,10,0,0,2105
+fernando francisco reges,2016/2017,27,0,0,4,0,0,1073
+fernando francisco reges,2015/2016,43,2,2,7,0,0,3073
+fernando francisco reges,2014/2015,33,2,2,9,0,0,2561
+fernando francisco reges,2013/2014,39,1,2,15,2,0,3452
+fernando francisco reges,2012/2013,31,1,1,10,0,0,2440
+fernando francisco reges,2011/2012,32,1,1,8,1,0,2543
+fernando francisco reges,2010/2011,39,1,0,10,1,0,3106
+fernando francisco reges,2010,10,0,0,5,1,0,864
+alejandro gomez,2021/2022,3,0,0,1,0,0,114
+alejandro gomez,2020/2021,41,10,5,0,0,0,2400
+alejandro gomez,2019/2020,46,8,18,2,0,0,3607
+alejandro gomez,2018/2019,46,11,11,5,0,0,3885
+alejandro gomez,2017/2018,44,9,12,4,0,2,3627
+alejandro gomez,2016/2017,42,17,11,6,0,2,3358
+alejandro gomez,2015/2016,36,7,7,5,1,0,2887
+alejandro gomez,2014/2015,25,3,2,3,1,0,1592
+alejandro gomez,2013/2014,23,3,5,4,0,0,1723
+alejandro gomez,2012/2013,39,9,8,6,0,0,3249
+alejandro gomez,2011/2012,35,5,3,1,0,0,2863
+alejandro gomez,2011,1,0,0,0,0,0,16
+goncalo guedes,2021/2022,3,1,1,0,0,0,232
+goncalo guedes,2020/2021,36,7,7,4,1,0,2563
+goncalo guedes,2019/2020,30,4,2,3,0,0,1632
+goncalo guedes,2018/2019,42,9,5,4,0,0,2660
+goncalo guedes,2017/2018,49,8,10,4,0,0,3202
+goncalo guedes,2016/2017,41,7,4,1,0,0,2324
+goncalo guedes,2015/2016,31,7,0,3,0,2,1941
+goncalo guedes,2014/2015,39,8,0,9,1,1,2837
+goncalo guedes,2014,9,4,0,1,0,0,736
+manuel javier vallejo galvan,2021/2022,1,0,0,0,0,0,12
+manuel javier vallejo galvan,2020/2021,33,6,3,2,0,0,1194
+manuel javier vallejo galvan,2019/2020,13,2,0,1,0,0,485
+manuel javier vallejo galvan,2018/2019,36,10,3,4,0,0,2809
+manuel javier vallejo galvan,2017/2018,1,0,0,0,0,0,6
+manuel javier vallejo galvan,2016,1,0,0,0,0,0,30
+jonathan da silveira fernandes reis,2021,22,8,14,4,0,0,1886
+jonathan da silveira fernandes reis,2020,1,0,0,0,0,0,90
+jonathan da silveira fernandes reis,2019,22,0,0,3,0,0,1000
+jonathan da silveira fernandes reis,2018,26,1,0,10,0,0,1671
+jonathan da silveira fernandes reis,2017,11,0,0,1,0,0,247
+jonathan da silveira fernandes reis,2016,23,2,1,4,0,0,1480
+jonathan da silveira fernandes reis,2015,20,2,1,4,0,0,1051
+mohamed said benrahma,2021/2022,3,2,2,0,0,0,266
+mohamed said benrahma,2020/2021,40,3,7,0,0,0,1866
+mohamed said benrahma,2019/2020,48,17,9,7,0,4,3902
+mohamed said benrahma,2018/2019,46,11,16,4,1,0,2928
+mohamed said benrahma,2017/2018,34,12,5,2,1,2,2523
+mohamed said benrahma,2016/2017,25,6,3,3,0,2,1778
+mohamed said benrahma,2015/2016,24,3,0,0,0,0,649
+mohamed said benrahma,2014/2015,17,6,2,1,0,0,1268
+mohamed said benrahma,2013/2014,17,3,0,0,0,0,1012
+jarrod bowen,2021/2022,3,0,0,0,0,0,259
+jarrod bowen,2020/2021,40,8,6,0,0,0,2647
+jarrod bowen,2019/2020,45,19,10,5,0,0,3680
+jarrod bowen,2018/2019,46,22,4,1,0,4,3953
+jarrod bowen,2017/2018,44,15,2,2,0,0,3464
+jarrod bowen,2016/2017,9,0,1,0,0,0,325
+jarrod bowen,2013/2014,8,1,0,2,0,0,623
+andriy yarmolenko,2021/2022,4,0,2,0,0,0,75
+andriy yarmolenko,2020/2021,35,8,8,5,0,2,2031
+andriy yarmolenko,2019/2020,30,6,1,3,0,0,1489
+andriy yarmolenko,2018/2019,17,3,0,2,0,1,1009
+andriy yarmolenko,2017/2018,37,12,8,1,0,2,2522
+andriy yarmolenko,2016/2017,35,17,9,7,0,6,2821
+andriy yarmolenko,2015/2016,50,25,15,5,1,3,4253
+andriy yarmolenko,2014/2015,38,19,18,4,1,3,3187
+andriy yarmolenko,2013/2014,34,16,6,8,1,2,2744
+andriy yarmolenko,2013,12,2,2,1,0,0,1004
+andriy yarmolenko,2012,10,0,0,4,0,0,872
+andriy yarmolenko,2011,16,4,0,1,0,0,1269
+andriy yarmolenko,2010,6,0,0,0,0,0,515
+bernardo rusa,2021/2022,1,0,1,0,0,0,90
+bernardo rusa,2020/2021,20,0,1,1,0,0,1458
+bernardo rusa,2019/2020,23,1,1,4,0,0,1870
+bernardo rusa,2018/2019,23,8,1,3,0,2,1506
+bernardo rusa,2017/2018,22,5,1,0,0,0,1690
+bernardo rusa,2016/2017,11,0,1,1,0,0,538
+manuel lanzini,2021/2022,2,0,0,1,0,0,82
+manuel lanzini,2020/2021,24,1,3,1,0,0,1054
+manuel lanzini,2019/2020,26,0,2,1,0,0,1513
+manuel lanzini,2018/2019,13,1,1,2,0,0,810
+manuel lanzini,2017/2018,31,6,8,4,0,0,2374
+manuel lanzini,2016/2017,41,8,2,9,0,2,2996
+manuel lanzini,2015/2016,31,7,4,3,0,0,2287
+manuel lanzini,2014/2015,25,8,8,3,0,0,2213
+conor coventry,2021/2022,1,1,0,0,0,0,90
+conor coventry,2020/2021,29,7,2,8,0,3,2519
+conor coventry,2019/2020,24,0,1,6,0,0,1916
+conor coventry,2018/2019,22,0,1,5,0,0,1904
+conor coventry,2017/2018,19,0,2,3,1,0,1605
+conor coventry,2016/2017,21,1,3,7,0,0,1755
+anthony martial,2021/2022,4,0,1,0,0,0,146
+anthony martial,2020/2021,41,7,6,2,1,1,2652
+anthony martial,2019/2020,50,23,9,1,0,1,3616
+anthony martial,2018/2019,41,13,3,3,0,1,2519
+anthony martial,2017/2018,46,11,9,1,0,2,2396
+anthony martial,2016/2017,47,8,10,3,0,1,2741
+anthony martial,2015/2016,62,19,11,4,0,1,4732
+anthony martial,2014/2015,51,11,7,2,0,2,2692
+anthony martial,2013/2014,15,5,1,1,0,0,883
+anthony martial,2012/2013,4,0,0,1,0,0,57
+aaron wan bissaka,2021/2022,2,0,0,0,0,0,180
+aaron wan bissaka,2020/2021,54,2,5,5,0,0,4712
+aaron wan bissaka,2019/2020,46,0,4,9,0,0,4017
+aaron wan bissaka,2018/2019,45,1,4,6,1,0,3917
+aaron wan bissaka,2017/2018,7,0,0,1,0,0,628
+aaron wan bissaka,2016/2017,0,0,0,0,0,0,0
+scott mctominay,2021/2022,5,0,0,0,0,0,354
+scott mctominay,2020/2021,58,7,2,7,0,0,4204
+scott mctominay,2019/2020,46,5,1,8,0,0,3016
+scott mctominay,2018/2019,28,2,0,1,0,0,1431
+scott mctominay,2017/2018,32,0,1,5,0,0,2076
+scott mctominay,2016/2017,20,3,0,5,0,0,1569
+scott mctominay,2016,2,0,0,1,0,0,160
+daniel james,2021/2022,3,1,0,0,0,0,255
+daniel james,2020/2021,37,6,4,4,0,0,2370
+daniel james,2019/2020,55,5,7,7,0,0,3718
+daniel james,2018/2019,48,6,8,2,0,0,3452
+daniel james,2017/2018,13,1,0,0,0,0,783
+daniel james,2016/2017,19,6,4,2,0,1,1575
+daniel james,2016,0,0,0,0,0,0,0
+nemanja matic,2021/2022,2,0,0,0,0,0,106
+nemanja matic,2020/2021,36,0,0,4,0,0,1997
+nemanja matic,2019/2020,36,1,3,5,1,0,2602
+nemanja matic,2018/2019,44,1,1,14,1,0,3700
+nemanja matic,2017/2018,56,2,2,8,0,0,4648
+nemanja matic,2016/2017,40,2,8,5,0,0,3117
+nemanja matic,2015/2016,57,3,2,11,2,0,4231
+nemanja matic,2014/2015,52,3,4,11,1,0,4349
+nemanja matic,2013/2014,41,3,4,11,0,0,3482
+nemanja matic,2012/2013,45,5,0,17,1,0,3898
+nemanja matic,2011/2012,27,1,0,6,0,0,1325
+nemanja matic,2011,2,0,0,0,0,0,146
+nemanja matic,2009/2010,2,0,0,0,0,0,41
+jadon sancho,2021/2022,2,0,0,0,0,0,46
+jadon sancho,2020/2021,48,16,19,1,0,3,3289
+jadon sancho,2019/2020,51,23,21,2,0,0,3738
+jadon sancho,2018/2019,47,13,16,3,0,0,2987
+jadon sancho,2017/2018,25,5,6,1,0,1,1609
+jadon sancho,2016/2017,28,18,6,2,1,2,2142
+jesse lingard,2021/2022,4,0,1,0,0,0,103
+jesse lingard,2020/2021,21,9,4,3,0,1,1681
+jesse lingard,2019/2020,40,4,2,5,0,0,1860
+jesse lingard,2018/2019,43,7,3,7,0,1,2574
+jesse lingard,2017/2018,60,16,8,6,0,0,3425
+jesse lingard,2016/2017,48,6,3,6,0,0,2474
+jesse lingard,2015/2016,42,6,4,8,0,0,2956
+jesse lingard,2014/2015,16,2,2,1,0,0,771
+jesse lingard,2013/2014,30,10,0,2,1,0,2483
+jesse lingard,2012/2013,5,0,0,0,0,0,81
+jesse lingard,2011/2012,0,0,0,0,0,0,0
+neal maupay,2021/2022,3,2,0,1,0,0,226
+neal maupay,2020/2021,44,15,2,4,1,3,3301
+neal maupay,2019/2020,38,10,3,4,0,1,2859
+neal maupay,2018/2019,49,28,9,9,0,5,4023
+neal maupay,2017/2018,46,13,5,9,0,1,2631
+neal maupay,2016/2017,29,12,1,5,0,1,2251
+neal maupay,2015/2016,22,3,2,4,0,0,828
+neal maupay,2014/2015,15,1,0,3,1,0,527
+neal maupay,2013/2014,20,4,1,2,0,1,983
+neal maupay,2012/2013,17,4,0,1,0,0,610
+leandro trossard,2021/2022,6,2,0,0,0,0,362
+leandro trossard,2020/2021,42,5,5,2,0,0,2865
+leandro trossard,2019/2020,32,5,3,0,0,0,2081
+leandro trossard,2018/2019,45,22,8,0,0,4,3696
+leandro trossard,2017/2018,16,7,2,2,0,1,1261
+leandro trossard,2016/2017,41,6,3,3,0,1,1886
+leandro trossard,2015/2016,30,8,6,2,0,0,2040
+leandro trossard,2013/2014,17,3,0,0,0,0,1094
+aaron anthony connolly,2021/2022,2,0,0,0,0,0,111
+aaron anthony connolly,2020/2021,22,2,2,1,0,0,1226
+aaron anthony connolly,2019/2020,31,7,1,1,0,0,1685
+aaron anthony connolly,2018/2019,21,15,2,1,0,0,1489
+aaron anthony connolly,2017/2018,21,9,1,0,0,0,1473
+aaron anthony connolly,2016/2017,17,6,0,2,0,0,928
+danny welbeck,2021/2022,1,0,0,0,0,0,31
+danny welbeck,2020/2021,24,6,1,0,0,0,1547
+danny welbeck,2019/2020,20,3,0,0,0,0,996
+danny welbeck,2018/2019,15,5,1,1,0,0,604
+danny welbeck,2017/2018,48,11,2,2,0,1,2469
+danny welbeck,2016/2017,23,5,4,0,0,1,1134
+danny welbeck,2015/2016,21,11,2,1,0,0,1231
+danny welbeck,2014/2015,37,8,3,4,0,0,2516
+danny welbeck,2013/2014,38,10,3,2,0,0,2392
+danny welbeck,2012/2013,40,2,4,1,0,0,2159
+danny welbeck,2011/2012,39,12,5,4,0,0,2451
+danny welbeck,2010/2011,28,6,1,2,0,0,1918
+danny welbeck,2009/2010,18,4,0,0,0,0,1231
+danny welbeck,2008/2009,3,1,0,0,0,0,117
+pascal gross,2021/2022,3,0,2,0,0,0,270
+pascal gross,2020/2021,40,3,10,4,0,3,2933
+pascal gross,2019/2020,31,2,4,4,0,0,1984
+pascal gross,2018/2019,27,3,3,1,0,1,1945
+pascal gross,2017/2018,39,7,8,2,0,1,3039
+pascal gross,2016/2017,34,5,4,7,0,3,2820
+pascal gross,2015/2016,33,1,4,10,1,0,2923
+pascal gross,2014/2015,35,7,16,4,0,0,3063
+pascal gross,2013/2014,32,2,0,4,0,0,2411
+pascal gross,2012/2013,31,2,0,4,0,0,2337
+pascal gross,2011/2012,23,2,0,5,0,0,1448
+pascal gross,2010/2011,3,1,0,1,0,0,142
+pascal gross,2009/2010,2,0,0,0,0,0,38
+pascal gross,2008/2009,4,0,0,0,0,0,49
+yves bissouma,2021/2022,3,0,1,1,0,0,270
+yves bissouma,2020/2021,39,2,0,10,1,0,3305
+yves bissouma,2019/2020,23,1,0,4,0,0,1326
+yves bissouma,2018/2019,34,1,1,8,0,0,2295
+yves bissouma,2017/2018,30,4,1,4,0,0,1916
+yves bissouma,2016/2017,34,3,0,6,1,0,1614
+taylor richards,2021/2022,2,0,0,0,0,0,85
+taylor richards,2020/2021,48,11,5,4,0,0,3035
+taylor richards,2019/2020,19,6,3,4,0,0,1487
+taylor richards,2018/2019,26,9,2,5,1,3,1681
+taylor richards,2017/2018,16,4,0,2,0,0,773
+taylor richards,2016/2017,13,5,1,1,0,0,446
+paul pogba,2021/2022,5,0,5,2,0,0,342
+paul pogba,2020/2021,52,7,8,9,0,0,3648
+paul pogba,2019/2020,28,1,4,3,0,0,1995
+paul pogba,2018/2019,53,16,11,8,1,8,4479
+paul pogba,2017/2018,49,8,13,8,1,0,3789
+paul pogba,2016/2017,56,9,7,10,0,1,4680
+paul pogba,2015/2016,62,11,18,13,0,1,5210
+paul pogba,2014/2015,46,10,7,8,0,0,3668
+paul pogba,2013/2014,56,10,10,6,0,0,4547
+paul pogba,2012/2013,37,5,0,3,1,0,2250
+paul pogba,2011/2012,7,0,0,1,0,0,195
+paul pogba,2011,0,0,0,0,0,0,0
+frederico rodrigues santos,2021/2022,2,1,0,0,0,0,166
+frederico rodrigues santos,2020/2021,54,1,3,11,1,0,4152
+frederico rodrigues santos,2019/2020,48,2,4,12,0,0,3545
+frederico rodrigues santos,2018/2019,28,1,2,4,0,0,1690
+frederico rodrigues santos,2017/2018,41,4,6,14,1,0,3237
+frederico rodrigues santos,2016/2017,28,3,4,13,1,0,2357
+frederico rodrigues santos,2015/2016,22,2,0,3,0,0,1891
+frederico rodrigues santos,2014/2015,31,1,0,5,0,0,1894
+frederico rodrigues santos,2013/2014,26,2,4,5,0,0,1497
+frederico rodrigues santos,2013,5,1,2,0,0,0,450
+lionel messi,2020/2021,54,42,17,7,1,8,4762
+lionel messi,2019/2020,45,33,26,7,0,5,3901
+lionel messi,2018/2019,60,56,21,4,1,7,4826
+lionel messi,2017/2018,59,49,21,8,0,4,4918
+lionel messi,2016/2017,57,55,17,9,0,9,4787
+lionel messi,2015/2016,52,40,21,5,0,4,4326
+lionel messi,2014/2015,59,61,25,6,0,6,5175
+lionel messi,2013/2014,53,45,15,3,0,8,4347
+lionel messi,2012/2013,45,56,14,1,0,5,3650
+lionel messi,2011/2012,51,68,26,8,0,14,4527
+lionel messi,2010/2011,48,46,25,3,0,5,4032
+lionel messi,2009/2010,55,43,11,5,0,1,4546
+lionel messi,2008/2009,33,26,0,2,0,4,2688
+lionel messi,2006,3,1,1,0,0,0,91
+robert lewandowski,2021/2022,11,16,3,0,0,1,886
+robert lewandowski,2020/2021,46,51,10,5,0,10,3793
+robert lewandowski,2019/2020,59,63,12,7,0,8,5134
+robert lewandowski,2018/2019,52,42,11,6,0,7,4507
+robert lewandowski,2017/2018,56,45,4,6,0,7,4321
+robert lewandowski,2016/2017,50,43,8,5,0,10,4200
+robert lewandowski,2015/2016,69,56,6,6,0,2,5670
+robert lewandowski,2014/2015,50,27,8,1,0,1,4033
+robert lewandowski,2013/2014,48,28,8,6,0,5,4162
+robert lewandowski,2012/2013,49,36,7,4,1,2,4113
+robert lewandowski,2011/2012,47,30,11,5,0,0,4028
+robert lewandowski,2010/2011,43,9,1,5,0,0,1958
+robert lewandowski,2009/2010,32,20,0,5,0,0,2887
+thomas muller,2021/2022,7,3,2,0,0,0,529
+thomas muller,2020/2021,51,16,20,2,0,3,4107
+thomas muller,2019/2020,51,14,25,6,0,0,3559
+thomas muller,2018/2019,52,9,12,2,1,1,3567
+thomas muller,2017/2018,52,16,16,6,0,0,3512
+thomas muller,2016/2017,47,11,15,0,0,0,3247
+thomas muller,2015/2016,69,42,13,7,0,8,5393
+thomas muller,2014/2015,49,21,14,2,0,7,3642
+thomas muller,2013/2014,56,31,13,3,0,7,4018
+thomas muller,2012/2013,47,23,15,2,0,4,3570
+thomas muller,2011/2012,53,11,14,3,0,0,3884
+thomas muller,2010/2011,47,18,15,2,0,0,3851
+thomas muller,2009/2010,58,24,13,7,1,0,4484
+thomas muller,2008/2009,4,0,0,0,0,0,28
+joshua kimmich,2021/2022,13,0,4,2,0,0,1089
+joshua kimmich,2020/2021,45,6,17,7,0,0,3804
+joshua kimmich,2019/2020,61,7,17,13,0,0,5255
+joshua kimmich,2018/2019,57,2,19,10,0,0,4971
+joshua kimmich,2017/2018,56,6,15,4,0,0,4660
+joshua kimmich,2016/2017,47,10,4,2,0,0,2690
+joshua kimmich,2015/2016,43,0,2,7,0,0,2982
+joshua kimmich,2014/2015,29,2,1,4,0,0,2268
+joshua kimmich,2013/2014,26,1,0,7,0,0,2084
